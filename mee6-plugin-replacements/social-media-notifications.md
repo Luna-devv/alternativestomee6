@@ -14,7 +14,7 @@ _Price: $0_&#x20;
 
 ### Social Media Notifications - [Wamellow](https://wamellow.com/docs/notifications)
 
-Wamellow lets you add notifications for YouTube, Twitch, Bluesky (Twitter/X clone) and Reddit. You can setup custom messages and embeds with over 40 different variables, post filters using regex and content types.
+Wamellow lets you add notifications for YouTube, Twitch, Bluesky (Twitter/X clone) and Reddit. You can setup custom messages and embeds with over 40 different variables, post filters using regex and content types.\
 _Price: $0_ 
 
 ![Social Media Notifications Wamellow](<../.gitbook/assets/wamellow-notifications.png>)
